@@ -12,6 +12,7 @@ Requisitos
 Instalação
 --------------
 
+- Clone este repositório para junto das outras app de seu projeto
 - Adicone a app ***'localidades'*** na settings INSTALLED_APPS em seu arquivo ***settings.py***
 - Execute o comando ***python manage.py migrate localidades***
 
