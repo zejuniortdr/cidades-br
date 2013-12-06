@@ -22,6 +22,6 @@ SQL
 Contém arquivo (localidades_cidade.sql) já pronto para carga MySQL, caso não utilizar Django.
 
 
-EXCEL
+Excel
 --------------
 Contém arquivo (cidades.xlsx) para utilização.
