@@ -12,8 +12,8 @@ Requisitos
 Instalação
 --------------
 
-- Adicone a app *'localidades'* na settings INSTALLED_APPS em seu arquivo *settings.py*
-- Execute o comando *'python manage.py migrate localidades'*
+- Adicone a app ***'localidades'*** na settings INSTALLED_APPS em seu arquivo ***settings.py***
+- Execute o comando ***'python manage.py migrate localidades'***
 
 
 SQL
