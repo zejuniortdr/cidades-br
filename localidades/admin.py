@@ -21,7 +21,7 @@ class CidadeAdmin(admin.ModelAdmin):
 	fieldsets = [
 		('Cidade',{'fields': ['nome','capital',], 'classes': ['wide']}),
 		(u'Estado',{'fields': ['estado', 'uf',], 'classes': ['wide']}),
-		(u'Informacções IBGE',{'fields': ['codigo_ibge','gentilico','populacao','area','densidade_demografica','pib',], 'classes': ['wide']}),
+		(u'Informações IBGE',{'fields': ['codigo_ibge','gentilico','populacao','area','densidade_demografica','pib',], 'classes': ['wide']}),
 		(u'Coordenadas Google Maps',{'fields': ['lat','lng',], 'classes': ['wide']}),
 	]
 
