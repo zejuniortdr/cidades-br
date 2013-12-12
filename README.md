@@ -1,7 +1,7 @@
 cidades-br
 ==========
 
-App em Django com lista de cidades e estados brasileiros com base na última atualização do IBGE em 2010: http://www.cidades.ibge.gov.br/xtras/home.php
+App em Django com lista de cidades e estados brasileiros com base na última atualização do IBGE: http://www.cidades.ibge.gov.br/xtras/home.php
 
 Requisitos
 --------------
