@@ -1,2 +1,6 @@
 # ARQUIVOS PYC
 *.pyc
+
+# ARQUIVOS SUBLIME
+*.sublime-project
+*.sublime-workspace
